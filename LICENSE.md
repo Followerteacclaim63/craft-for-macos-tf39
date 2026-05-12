@@ -1,4 +1,4 @@
-#  
+#  Craft for macOS elite Plugin: offline access & quick search is the best Craft for macOS plugin, featuring offline access and quick search. Safe, efficient, and optimized for macOS
 
 
 
